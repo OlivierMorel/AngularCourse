@@ -1,2 +1,2 @@
 # AngularCourse
-Angular Materail Course project
+Angular Material Course project
